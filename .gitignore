@@ -1,0 +1,13 @@
+obj/Core/core_riscv.o
+obj/EmergencyStopSensor_v0_1.elf
+obj/EmergencyStopSensor_v0_1.lst
+obj/EmergencyStopSensor_v0_1.lst
+obj/Startup/startup_ch32v00x.o
+obj/Configs/configs.o
+obj/Core/core_riscv.o
+obj/EmergencyStopSensor_v0_1.elf
+obj/EmergencyStopSensor_v0_1.lst
+obj/Menu/menu.o
+obj/Startup/startup_ch32v00x.o
+obj/User/main.o
+obj/User/system.o
