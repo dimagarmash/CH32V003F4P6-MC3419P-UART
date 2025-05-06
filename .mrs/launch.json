@@ -4,7 +4,7 @@
 		{
 			"type": "mrs-debugger",
 			"request": "launch",
-			"name": "EmergencyStopSensor_v0_1",
+			"name": "CH32V003F4P6+MC3419P+UART",
 			"cwd": "i:\\DimaWorkSpace\\PetProj\\CH32V003F4P6+MC3419P+UART",
 			"openOCDCfg": {
 				"useLocalOpenOCD": true,
@@ -39,8 +39,8 @@
 					"additionalCommands": []
 				},
 				"loadedFiles": {
-					"executableFile": "i:\\DimaWorkSpace\\PetProj\\CH32V003F4P6+MC3419P+UART\\obj\\EmergencyStopSensor_v0_1.elf",
-					"symbolFile": "i:\\DimaWorkSpace\\PetProj\\CH32V003F4P6+MC3419P+UART\\obj\\EmergencyStopSensor_v0_1.elf",
+					"executableFile": "i:\\DimaWorkSpace\\PetProj\\CH32V003F4P6+MC3419P+UART\\obj\\CH32V003F4P6+MC3419P+UART.elf",
+					"symbolFile": "i:\\DimaWorkSpace\\PetProj\\CH32V003F4P6+MC3419P+UART\\obj\\CH32V003F4P6+MC3419P+UART.elf",
 					"executableFileOffset": 0,
 					"symbolFileOffset": 0
 				},
